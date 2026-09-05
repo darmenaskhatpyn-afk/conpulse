@@ -1,0 +1,7 @@
+{
+  "name": "ConvertPulse - Customer Conversion Platform",
+  "description": "A high-converting growth platform engineered to turn visitors into paying customers with interactive ROI diagnostics, instant audit generation, and frictionless booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
